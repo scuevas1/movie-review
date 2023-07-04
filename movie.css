@@ -1,0 +1,82 @@
+.vacation-background {
+  background-color: #1f2c66;
+  margin: 10px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.column3 {
+  float: left;
+  width: 33.2%;
+  padding: 0 20px;
+}
+
+.row3 {margin: 0 -5px;}
+
+.row3:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 600px) {
+  .column3 {
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+    background-color:#dedfe0;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  body {
+    width: 100%;
+    margin-bottom: 10px;
+    background-color: #b1cdfa;
+  }
+}
+.card3 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
+}
+
+.name {
+  font-size: 40px;
+  padding:20px;
+  font-family: georgia;
+  text-align: center;
+  color: white;
+}
+
+#myvacation {
+  font-size: 35px;
+  padding:20px;
+  font-family: georgia;
+  text-align: center;
+}
+
+#name4 {
+  font-size: 35px;
+  padding:20px;
+  font-family: georgia;
+  text-align: center;
+}
+
+.img3 {
+  width: 450px;
+  height: 600px;
+  object-fit: fill;
+}
+
+.moviename {
+  font-size: 25px;
+}
+
+a:hover {
+  opacity: 0.3;
+}
+
