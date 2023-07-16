@@ -1,20 +1,20 @@
 body { 
-  background-color:#8a650c;
+  background-color:#f5d4b3;
   font-family:Courier;
 }
 
 h1 { 
   text-align:center;
-  color:#522a3e;
+  color:#2c8a0a;
 }
 
 h2 {
   text-align:center;
-  color:#522a3e;
+  color:#2c8a0a;
 }
 
 h3 {
-  color:#522a3e;
+  color:#2c8a0a;
 }
  
 {
@@ -48,13 +48,13 @@ article {
   height:100px; 
   margin-right:60px;
   margin-left:60px;
-  background-color:#e8e6d8;
-  color: grey;
+  background-color:#9e0b0b;
+  color: white;
 }
 
 section {
   content: "";
-  background-color:#cd9d06;
+  background-color:#0e2a80;
   padding:5px;
   float:center;
   color:white;
@@ -63,7 +63,7 @@ section {
 }
 
 footer {
-  background-color:#cd9d06;
+  background-color:#0e2a80;
   padding: 10px;
   padding:5px;
   padding-top:5px;
@@ -79,7 +79,7 @@ aside {
   float:right;
   width:29%;
   height: 100px;
-  background:#cd9d06;
+  background:#0e2a80;
   padding:5px;
   padding-top:5px;
   padding-right:93px;
@@ -94,7 +94,7 @@ nav {
   float:left;
   width:30%;
   height: 100px;
-  background:#cd9d06;
+  background:#0e2a80;
   padding:5px;
   padding-top:5px;
   padding-right:105px;
@@ -123,7 +123,7 @@ label {
 iframe {
   width:350px;
   height:220px;
-  transform: translate(-170%, 26%);
+  transform: translate(-170%, 11%);
   position: absolute;
   top: 50%;
   left: 50%;

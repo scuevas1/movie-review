@@ -110,7 +110,7 @@ label {
 
 .LOL {
   padding-bottom:170px;
-  color:#9C9494;
+  color:white;
 }
 
 .img4 {
@@ -122,7 +122,7 @@ label {
 iframe {
   width:350px;
   height:220px;
-  transform: translate(-170%, 42%);
+  transform: translate(-170%, 35%);
   position: absolute;
   top: 50%;
   left: 50%;
